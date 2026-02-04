@@ -33,7 +33,7 @@
 |---|---|---|---|---|
 | <img src="https://github.com/hp657.png" width="90"/> | <img src="https://github.com/didgmltmd.png" width="90"/> | <img src="https://github.com/kimjunseong04.png" width="90"/> | <img src="https://github.com/FLOHERE.png" width="90"/> | <img src="https://github.com/Junseung0526.png" width="90"/> |
 | 이효준 | 양희승 | 김준성 | 조소영 | 김준승 |
-| Overall Lead | Backend | Backend | Frontend | Frontend |
+| Overall Lead | Frontend | Frontend | Backend | Backend |
 
 
 
