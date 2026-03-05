@@ -31,10 +31,9 @@
 
 | 대표 | 운영진 | 운영진 | 운영진 | 운영진 |
 |---|---|---|---|---|
-| <img src="https://github.com/hp657.png" width="90"/> | <img src="https://github.com/didgmltmd.png" width="90"/> | <img src="https://github.com/kimjunseong04.png" width="90"/> | <img src="https://github.com/FLOHERE.png" width="90"/> | <img src="https://github.com/Junseung0526.png" width="90"/> |
+| [<img src="https://github.com/hp657.png" width="90"/>](https://github.com/hp657) | [<img src="https://github.com/didgmltmd.png" width="90"/>](https://github.com/didgmltmd) | [<img src="https://github.com/kimjunseong04.png" width="90"/>](https://github.com/kimjunseong04) | [<img src="https://github.com/FLOHERE.png" width="90"/>](https://github.com/FLOHERE) | [<img src="https://github.com/Junseung0526.png" width="90"/>](https://github.com/Junseung0526) |
 | 이효준 | 양희승 | 김준성 | 조소영 | 김준승 |
 | Overall Lead | Frontend | Frontend | Backend | Backend |
-
 
 
 ## 📬 Contact
